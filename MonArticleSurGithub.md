@@ -17,7 +17,7 @@ eh bien top, on y va.
 
 Github est le serveur (lieu d'hebergement) du site web Git (c'est un système de controle des versions) contenu dans le cloud sur lequel plusieurs utilisateurs peuvent se connecter. 
 Dans github, un projet quelconque est deposé et plusieurs versions peuvent sortir.
-[Voici à quoi son interface ressemble](./image1.png)
+![voici  quoi son interface ressemble](image1-1.PNG)
 
 - **Quel est son utilité**
 
@@ -29,7 +29,7 @@ Github permet  à un developpeur de :
 - **Qu'est ce qu'un Markdown file?**
 
 c'est en effet un langage de balisage simplifié qui permet non seulement une ecriture rapide et simple des différentes taches, mais en plus une comprehension facile.
-[Regardez sur VS code](./image3.png)
+![voici mon fichier md ouvert sur vscode](image3-1.PNG)
 
 -**Liste des 10 commandes de base Github avec explications et exemples**
 Eh bien, pour ne pas rendre notre article trop long, gardons ceci pour une pratique en vidéo
@@ -47,5 +47,3 @@ https://www.youtube.com/watch?v=wGS83xgWEBU
 https://youtu.be/4o9qzbssfII
 
 https://youtu.be/OpgmGI49Uxg
-
-
