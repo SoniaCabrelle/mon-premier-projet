@@ -30,7 +30,8 @@ Github permet  à un developpeur de :
 - **Qu'est ce qu'un Markdown file?**
 
 c'est en effet un langage de balisage simplifié qui permet non seulement une ecriture rapide et simple des différentes taches, mais en plus une comprehension facile.
-![voici mon fichier md ouvert sur vscode](image3-1.PNG)
+
+![voici mon fichier md ouvert sur vscode](https://github.com/SoniaCabrelle/mon-premier-projet/blob/main/image3.PNG?raw=true)
 
 -**Liste des 10 commandes de base Github avec explications et exemples**
 Eh bien, pour ne pas rendre notre article trop long, gardons ceci pour une pratique en vidéo
@@ -48,4 +49,5 @@ https://www.youtube.com/watch?v=wGS83xgWEBU
 https://youtu.be/4o9qzbssfII
 
 https://youtu.be/OpgmGI49Uxg
+
 
