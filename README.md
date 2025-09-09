@@ -5,3 +5,5 @@ puisqu'elle est pas  pas, cela pourrait aider es nouveaux, et pourquoi pas aux a
 Je l'ai crée pour montrer le rendu final de mon premier devoir de formation au formateur.
 
 [voici comment j'insère ma premiere image](https://share.google/images/LEs4RVUENKwcyfQYe)
+
+ehh, j'avais oublié, je dois copier le lien pour lui envoyer
