@@ -17,7 +17,8 @@ eh bien top, on y va.
 
 Github est le serveur (lieu d'hebergement) du site web Git (c'est un système de controle des versions) contenu dans le cloud sur lequel plusieurs utilisateurs peuvent se connecter. 
 Dans github, un projet quelconque est deposé et plusieurs versions peuvent sortir.
-![voici  quoi son interface ressemble](image1-1.PNG)
+
+![voici  quoi son interface ressemble](https://github.com/SoniaCabrelle/mon-premier-projet/blob/main/image1.PNG?raw=true)
 
 - **Quel est son utilité**
 
@@ -47,3 +48,4 @@ https://www.youtube.com/watch?v=wGS83xgWEBU
 https://youtu.be/4o9qzbssfII
 
 https://youtu.be/OpgmGI49Uxg
+
